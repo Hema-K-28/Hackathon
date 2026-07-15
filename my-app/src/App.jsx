@@ -146,7 +146,7 @@ const styles = `
 .hz26 .btn-sub{font-family:'JetBrains Mono'; font-size:13px; color:var(--muted);}
 
 .hz26 section{padding:72px 0; border-top:1px solid var(--line);}
-.hz26 .section-title{font-size:clamp(28px,4vw,38px); font-weight:700; margin-bottom:36px; letter-spacing:-0.5px;}
+.hz26 .section-title{font-size:clamp(28px,4vw,38px); font-weight:700; margin-bottom:36px; letter-spacing:-0.5px;color: #2e4f91;}
 
 /* ORGANIZERS */
 .hz26 .split{display:grid; grid-template-columns:1fr 1fr; gap:28px;}
@@ -244,7 +244,7 @@ const styles = `
   display:inline-flex; align-items:center; gap:6px;
 }
 .hz26 .reg-back:hover{text-decoration:underline;}
-.hz26 .reg-title{font-size:clamp(28px,4vw,40px); font-weight:700; margin-bottom:8px;}
+.hz26 .reg-title{font-size:clamp(28px,4vw,40px); font-weight:700; margin-bottom:8px;color: #2e4f91;}
 .hz26 .reg-sub{color:var(--muted); font-size:14.5px; margin-bottom:32px;}
 .hz26 .reg-form{background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:32px;}
 .hz26 .field-group{margin-bottom:28px;}
